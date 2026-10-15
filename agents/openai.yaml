@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tableau Workbook"
+  short_description: "Safely inspect, edit, and validate Tableau TWB files"
+  default_prompt: "Inspect this Tableau workbook with the tableau-workbook skill. Identify its version and calculation dependencies, propose only safe changes, and run required validation gates."
