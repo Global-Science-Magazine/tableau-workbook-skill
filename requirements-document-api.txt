@@ -1,0 +1,3 @@
+-r requirements.txt
+# Optional, unsupported upstream SDK; test per workbook before writing.
+tableaudocumentapi==0.11
